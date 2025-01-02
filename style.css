@@ -147,6 +147,13 @@ nav button {
   width: 400px;
   height: 210px;
 }
+#vid2{
+  position: absolute;
+  top: 50px;
+  right: 92px;
+  width: 290px;
+  height: 210px;
+}
 section.first > div {
   display: flex;
   flex-direction: column;
