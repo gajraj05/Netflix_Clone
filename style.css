@@ -142,10 +142,10 @@ nav button {
 }
 .first-img video {
   position: absolute;
-  top: 55px;
-  right: 10px;
-  width: 30vw;
-  height: 30vh;
+  top: 118px;
+  right: 14px;
+  width: 400px;
+  height: 210px;
 }
 section.first > div {
   display: flex;
